@@ -4,7 +4,7 @@ import Provider from '@components/Provider';
 import '@styles/globals.css';
 
 export const metadata = {
-  title: 'Promptopia',
+  title: 'Share-Prompt',
   description: 'Discover and share ai prompts'
 }
 
